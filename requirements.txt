@@ -1,4 +1,4 @@
 tensorflow==1.15.2
-numpy==1.14.5
+numpy==1.21.0
 imageio==2.4.1
 matplotlib==2.1.2
